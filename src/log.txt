@@ -1,0 +1,2 @@
+2025-07-09T10:45:14.462671 - Added expense: [2025-07-09] food: 300.0 ETB - for lunch with family
+2025-07-09T10:48:08.673593 - Added expense: [2025-08-09] food: 300.0 ETB - lucnh with the family
