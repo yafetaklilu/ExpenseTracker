@@ -1,4 +1,4 @@
-# Expense Tracker (Java CLI Application)
+# Expense Tracker (Java CLI Application).
 
 A simple but complete Java console application that allows users to track their expenses, view totals, filter by category, and manage custom categories — all built using Object-Oriented Programming principles.
 
