@@ -78,7 +78,7 @@ java -cp ".:../sqlite-jdbc-3.36.0.3.jar" app.Main
 | ---- | ----------------------- |
 |      | CLI Interface + Testing |
 |      | DAO + JDBC Integration  |
-|Yomlata Assefa| Service Layer + Logging |
+|Yomlata Assefa| Expense model & Service |
 |      | OOP Structure & Cleanup |
 
 ---
